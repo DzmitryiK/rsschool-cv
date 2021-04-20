@@ -17,3 +17,11 @@ I already have some programming knowledge and experience, including Android deve
 
 ## Experience
 Delphi/Oracle developer, 4 years. Developing software packages for accounting, HR, electronic document management.
+
+## Education
+- BSUIR, bachelors degree in infocommunication, 2017
+- BSUIR, masters degree in infocommunication, 2019
+- Oracle Autonomous Database Cloud courses, 2020
+
+## English
+B1+
